@@ -5,13 +5,7 @@
 <b>Libraries used in this code</b>
 <br>
 <ol>
-  <li>pandas</li>
-</ol>
-<br>
-<b>Installation guide</b>
-<br>
-<br>
-<ol>
-<li>Install Python from this <a href="https://www.python.org">link</a></li>
-<li>Install pandas by typing <b>pip install pandas</b> in the command prompt or windows powershell</li>
+  <li>Python : <a href="https://www.python.org">Download link</li>
+  <li>openpyxl : <code>pip install openpyxl</code>
+  <li>pandas : <code>pip install pandas</code></li>
 </ol>
