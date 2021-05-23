@@ -2,7 +2,7 @@
 <br>
 <br>
 <p>
-<b>Libraries used in this code</b>
+<h2>Pre-requisites for running this script</h2>
 <br>
 <ol>
   <li>Python : <a href="https://www.python.org">Download link</a></li>
