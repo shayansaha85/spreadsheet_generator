@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+
 k=1
 while k==1:
     try:
@@ -36,6 +37,6 @@ os.system("cls")
 
 df = pd.DataFrame(table_data)
 os.system("mkdir output_folder")
-df.to_csv(f"./output_folder/{filename}.csv")
+df.to_excel(f"./output_folder/{filename}.xlsx", index=False)
 os.system("cls")
-print("Converted to CSV")
+print("Converted to excel sheet")
